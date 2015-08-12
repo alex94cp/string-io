@@ -1,6 +1,6 @@
 {
   "name": "string-io",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An implementation of string streams for Node",
   "main": "index.js",
   "scripts": {
