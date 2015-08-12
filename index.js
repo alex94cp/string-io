@@ -1,4 +1,4 @@
 module.exports = {
-	Read: require('./lib/InputStringStream'),
-	Write: require('./lib/OutputStringStream'),
+	Read: require('./lib/ReadStringStream'),
+	Write: require('./lib/WriteStringStream'),
 };
